@@ -1,6 +1,6 @@
 {
   "name": "package.json",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://gitname.github.io/calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
